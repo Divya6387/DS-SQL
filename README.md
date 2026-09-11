@@ -43,3 +43,7 @@
 <br> │   └── Gold/
 <br> ├── 02-EDA/
 <br> └── 03-Advanced-Data-Analytics/
+
+
+<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/7d125ad0-3d92-49b8-ac4d-936124a6c5e5" />
+
